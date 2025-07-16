@@ -10,7 +10,9 @@
 <div align ="center">
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a><br>
+<img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/css-663399?style=flat-square&logo=css&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
@@ -41,6 +43,10 @@
  <img src = "https://img.shields.io/badge/careerly-white.svg?style=flat-square&logo=cloudera&logoColor=black" /></a>
  
  
+
+
+
+
 
 </div>
 
