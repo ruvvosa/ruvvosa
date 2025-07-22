@@ -41,6 +41,14 @@
  <img src = "https://img.shields.io/badge/instagram-FF0069.svg?style=flat-square&logo=instagram&logoColor=white" /></a>
  <a href="https://careerly.co.kr/profiles/506004" target="_blank">
  <img src = "https://img.shields.io/badge/careerly-white.svg?style=flat-square&logo=cloudera&logoColor=black" /></a>
+
+ <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ruvvosa&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/ruvvosa"
+  width="600"
+  height="300"
+/>
+</a>
  
  
 
