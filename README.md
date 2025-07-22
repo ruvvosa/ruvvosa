@@ -43,6 +43,7 @@
  <img src = "https://img.shields.io/badge/careerly-white.svg?style=flat-square&logo=cloudera&logoColor=black" /></a>
 
  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ruvvosa&utm_content=farm">
+   <br>
 <img
   src="https://render.gitanimals.org/farms/ruvvosa"
   width="600"
