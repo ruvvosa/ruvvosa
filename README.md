@@ -5,7 +5,7 @@
 <h2 align="center">Hi! I'm ruvvosa</h2><p size: 9px; align ="center">코린이입니다..😅</p>
 
 <!-- 기술 스택 -->
-<h3 align = "center">✨ Tech Stack</h3><p align="center">Techs that I've used at least once
+<h3 align = "center">📌 Tech Stack</h3><p align="center">Techs that I've used at least once
 
 <div align ="center">
 
