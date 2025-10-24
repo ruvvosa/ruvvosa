@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome!)
-
 
 
 <h2 align="center">Hi! I'm ruvvosa</h2><p size: 9px; align ="center">코린이입니다..😅</p>
