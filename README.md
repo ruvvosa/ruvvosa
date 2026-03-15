@@ -37,7 +37,7 @@
  <img src = "https://img.shields.io/badge/velog-20C997.svg?style=flat-square&logo=velog&logoColor=white" /></a>
  <a href="https://www.instagram.com/ruvvosa/" target="_blank">
  <img src = "https://img.shields.io/badge/instagram-FF0069.svg?style=flat-square&logo=instagram&logoColor=white" /></a>
- <a href="https://careerly.co.kr/profiles/506004" target="_blank">
+ <a href="https://www.careerly.co.kr/profile/506004" target="_blank">
  <img src = "https://img.shields.io/badge/careerly-white.svg?style=flat-square&logo=cloudera&logoColor=black" /></a>
  <br>
 
